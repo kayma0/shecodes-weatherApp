@@ -70,6 +70,23 @@ footer p {
   margin-top: 150px;
 }
 
-hr.custom-hr {
+hr.custom-hr1,
+hr.custom-hr2 {
   border: 1px solid rgb(194, 186, 186);
+}
+
+hr.custom-hr2 {
+  transform: translateY(100px);
+}
+
+main {
+  transform: translateY(50px);
+}
+
+hr.custom-hr1 {
+  transform: translateY(20px);
+}
+
+.cw-p {
+  line-height: 20px;
 }
