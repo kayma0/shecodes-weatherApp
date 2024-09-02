@@ -46,17 +46,17 @@ input[type="submit"] {
 }
 
 .current-weather .degrees {
-  font-size: 1.5rem;
+  font-size: 2.5rem;
 }
 
 .current-weather span#number {
-  font-size: 3rem;
+  font-size: 4rem;
   font-weight: bold;
 }
 
 .current-weather p {
   color: grey;
-  font-size: 13px;
+  font-size: 15px;
 }
 
 .current-weather p strong {
@@ -65,8 +65,9 @@ input[type="submit"] {
 
 footer p {
   text-align: center;
-  font-size: 13px;
+  font-size: 15px;
   color: grey;
+  margin-top: 150px;
 }
 
 hr.custom-hr {
